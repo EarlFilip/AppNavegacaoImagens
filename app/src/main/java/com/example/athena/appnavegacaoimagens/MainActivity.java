@@ -24,12 +24,12 @@ public class MainActivity extends Activity {
         imageShow = (ImageView) findViewById(R.id.imageShow);
     }
 
-    public void anterior(View v){
+    public void imagemAmostra(){}
 
+    public void anterior(View v){
     }
 
     public void proximo(View v){
-
     }
 
     public void loadImage(View v){
