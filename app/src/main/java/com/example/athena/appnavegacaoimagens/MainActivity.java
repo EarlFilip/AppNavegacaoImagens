@@ -8,7 +8,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.Toast;
-
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
